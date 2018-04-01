@@ -3,9 +3,6 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Link to project: ![roulette](https://user-images.githubusercontent.com/36242561/38178230-3fc7552a-35dc-11e8-8a20-34e0c2c27e01.png)
 
-
-alt tag
-
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Express, Node.JS, MongoDB
 
